@@ -1,0 +1,32 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 250
+	last_login_time: 1716767432848L
+	chunks: {
+		"minecraft:overworld": [
+			{ x: -61, z: 15, time: 1715993398418L, force_loaded: 1715993400119L }
+			{ x: -60, z: 14, time: 1716256840200L, force_loaded: 1716256840498L }
+			{ x: -58, z: 17, time: 1716413849209L, force_loaded: 1716413849772L }
+			{ x: -53, z: 17, time: 1716155751735L, force_loaded: 1716155752115L }
+			{ x: -62, z: 15, time: 1716432824661L, force_loaded: 1716432825017L }
+			{ x: -53, z: 16, time: 1716155763371L, force_loaded: 1716155763769L }
+			{ x: -57, z: 19, time: 1716430600047L, force_loaded: 1716430600797L }
+			{ x: -59, z: 20, time: 1716019676789L, force_loaded: 1716019677195L }
+			{ x: -60, z: 15, time: 1715915740434L, force_loaded: 1715915740915L }
+			{ x: -61, z: 13, time: 1715993399018L, force_loaded: 1715993399542L }
+			{ x: -61, z: 14, time: 1715993398694L, force_loaded: 1715993399818L }
+		]
+		"allthemodium:mining": [
+			{ x: -60, z: 19, time: 1715915635093L, force_loaded: 1715915635559L }
+			{ x: 1326, z: 376, time: 1716092742263L, force_loaded: 1716092742659L }
+		]
+		"minecraft:the_nether": [{ x: -10, z: -16, time: 1716104753535L, force_loaded: 1716104753836L }]
+	}
+	member_data: {
+		b7053096-b075-463b-ba9e-f7d46a546dbc: {
+			max_force_loaded_chunks: 250
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+	}
+}

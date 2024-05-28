@@ -1,0 +1,7 @@
+{
+	warps: {
+		bolo: { dim: "minecraft:overworld", x: -959, y: 65, z: 264, time: 1715955101520L, xRot: 10.499984f, yRot: -1.5011728f }
+	}
+	mute_timeouts: { }
+	kits: { }
+}
